@@ -11,3 +11,10 @@
 # install packages. windows,  activate virtual env
 - .\assignment2-env\Scripts\activate
 - pip install -r requirements.txt
+
+
+# push to git
+- git add .
+- git commit -m "message here"
+- git push
+
